@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+#### 안녕하세요 싸피 10기 교육생 이윤형입니다.
 <!--
 **yun73/yun73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
